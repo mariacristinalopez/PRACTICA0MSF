@@ -2,7 +2,7 @@
 
 # Práctica 0: Modelo del sistema respiratorio
 
-## Infromación del\la estudiante
+## Infromación de la estudiante
 Maria Cristina Lopez Lopez \[22212259]: Maria. L. Lopez \[22212259]; l22212259@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
